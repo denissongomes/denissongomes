@@ -24,7 +24,7 @@ I'm also able to work with market trends such as digital marketing, social media
  
 - :wink: I’m currently working on something cool;
 - 🌱 I’m currently learning NodeJS, React, Python, TypeScript and Angular; 
-- :us:  I´m learning english language;
+- :us:  I’m currently learning english language;
 
 <br />
  
