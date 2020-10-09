@@ -12,15 +12,7 @@ I'm also able to work with market trends such as digital marketing, social media
 - :wink: I’m currently working on something cool;
 - 🌱 I’m currently learning NodeJS, React, Python, TypeScript and Angular; 
 - :us: Trying to learn the english language;
-
-
-Contact-me on:
-<br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/denissongomes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/denissongomes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://denissongomes.dev/)  
-
-![Denisson Gomes's github stats](https://github-readme-stats.vercel.app/api?username=denissongomes&show_icons=true&theme=radical)
-
-
+<br />
 ### Skills:
 <p>
 <img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/denissongomes/denissongomes/main/images/js.png" style="vertical-align:top; margin:4px"/>
@@ -28,4 +20,13 @@ Contact-me on:
 <img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/denissongomes/denissongomes/main/images/node.jpg" style="vertical-align:top; margin:4px"/>
 <img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/denissongomes/denissongomes/main/images/react.png" style="vertical-align:top; margin:4px"/>
   and more...
- 
+<br /> 
+
+Contact-me on:
+<br>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/denissongomes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/denissongomes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://denissongomes.dev/)  
+<br />
+![Denisson Gomes's github stats](https://github-readme-stats.vercel.app/api?username=denissongomes&show_icons=true&theme=radical)
+
+
+
