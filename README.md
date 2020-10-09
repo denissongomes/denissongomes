@@ -8,7 +8,8 @@ I'm also able to work with market trends such as digital marketing, social media
 [![Github](https://img.shields.io/github/followers/denissongomes?label=Follow&style=social)](https://github.com/denissongomes)
 
 <br />
-### Talking about Personal Stuffs
+### Personal Stuffs:
+ 
 - :wink: I’m currently working on something cool;
 - 🌱 I’m currently learning NodeJS, React, Python, TypeScript and Angular; 
 - :us:  I´m learning english language;
@@ -22,6 +23,7 @@ I'm also able to work with market trends such as digital marketing, social media
 <img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/denissongomes/denissongomes/main/images/node.jpg" style="vertical-align:top; margin:4px"/>
 <img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/denissongomes/denissongomes/main/images/react.png" style="vertical-align:top; margin:4px"/>
   and more...
+</p>
 
 <br /> 
 
