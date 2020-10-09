@@ -4,7 +4,7 @@ I'm Denisson Gomes, a Full Stack Developer from Brazil. I love challenges and I'
 
 I'm also able to work with market trends such as digital marketing, social media, SEO, Database & Datascience, Cloud Computing, UX & UI / Digital Design, mobile app development and Artificial Intelligence for chatbots and other innovative solutions, using agile methodologies, prototyping and gamification. 
 
-![](https://visitor-badge.glitch.me/badge?page_id=denissongomes.denissongomes)
+![Profile views](https://gpvc.arturio.dev/denissongomes)
 [![Github](https://img.shields.io/github/followers/denissongomes?label=Follow&style=social)](https://github.com/denissongomes)
 
 <br />
