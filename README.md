@@ -11,6 +11,7 @@ I'm also able to work with market trends such as digital marketing, social media
 
 ### Skills:
 <p>
+  <img height="32" width="32" style="vertical-align:top; margin:4px" src="https://www.php.net/images/logos/php-icon.png" style="vertical-align:top; margin:4px"/>
 <img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/denissongomes/denissongomes/main/images/js.png" style="vertical-align:top; margin:4px"/>
 <img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/denissongomes/denissongomes/main/images/ts.png" style="vertical-align:top; margin:4px"/>
 <img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/denissongomes/denissongomes/main/images/node.jpg" style="vertical-align:top; margin:4px"/>
