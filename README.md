@@ -1,8 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Denisson Gomes, a Full Stack Developer from Brazil. I love challenges and I'm constantly learning. :smiley:.
-
-<!-- I'm also able to work with market trends such as digital marketing, social media, SEO, Database & Datascience, Cloud Computing, UX & UI / Digital Design, mobile app development and Artificial Intelligence for chatbots and other innovative solutions, using agile methodologies, prototyping and gamification. -->
+I'm Denisson Gomes, a Full Stack Developer from Brazil. I love challenges and I'm constantly learning. <br> Currently, I'm looking for a passionate team or an individual who will provide me a challenging and interesting work that I can contribute to. Start-ups are always welcome. I want to grow with them. :smiley:.
 
 ![Profile views](https://gpvc.arturio.dev/denissongomes)
 [![Github](https://img.shields.io/github/followers/denissongomes?label=Follow&style=social)](https://github.com/denissongomes)
@@ -24,7 +22,7 @@ I'm Denisson Gomes, a Full Stack Developer from Brazil. I love challenges and I'
 ### Personal Stuffs:
  
 - :wink: I’m currently working on something cool;
-- 🌱 I’m currently learning NodeJS, React, Python, TypeScript and Angular; 
+- 🌱 I’m currently learning MERN Stack - MongoDB, ExpressJS,  ReactJS and NodeJS; 
 - :us:  I’m currently learning english language;
 
 <br />
