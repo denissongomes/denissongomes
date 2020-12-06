@@ -13,6 +13,7 @@ I'm Denisson Gomes, a Full Stack Developer from Brazil. I love challenges and I'
 <img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/denissongomes/denissongomes/main/images/js.png" style="vertical-align:top; margin:4px"/>
 <img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/denissongomes/denissongomes/main/images/ts.png" style="vertical-align:top; margin:4px"/>
 <img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/denissongomes/denissongomes/main/images/node.jpg" style="vertical-align:top; margin:4px"/>
+  <img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/denissongomes/denissongomes/main/images/angular.png" style="vertical-align:top; margin:4px"/>
 <img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/denissongomes/denissongomes/main/images/react.png" style="vertical-align:top; margin:4px"/>
   and more...
 </p>
