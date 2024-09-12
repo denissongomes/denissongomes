@@ -12,17 +12,16 @@ I thrive on challenges and am a lifelong learner. I'm seeking stimulating opport
 ### My technical skills include:
 <p>
    
-  <img height="32" width="32" style="vertical-align:top; margin:4px" src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" style="vertical-align:top; margin:4px"/>
-   <img height="32" width="32" style="vertical-align:top; margin:4px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" style="vertical-align:top; margin:4px"/>
+<img height="32" width="32" style="vertical-align:top; margin:4px" src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" style="vertical-align:top; margin:4px"/>
+<img height="32" width="32" style="vertical-align:top; margin:4px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" style="vertical-align:top; margin:4px"/>
 <img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/denissongomes/denissongomes/main/images/js.png" style="vertical-align:top; margin:4px"/>
 <img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/denissongomes/denissongomes/main/images/ts.png" style="vertical-align:top; margin:4px"/>
-  <img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/denissongomes/denissongomes/main/images/react.png" style="vertical-align:top; margin:4px"/>
+<img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/denissongomes/denissongomes/main/images/react.png" style="vertical-align:top; margin:4px"/>
 <img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/denissongomes/denissongomes/main/images/node.jpg" style="vertical-align:top; margin:4px"/>
-<img height="32" width="32" style="vertical-align:top; margin:4px" src="https://www.php.net/images/logos/php-icon.png" style="vertical-align:top; margin:4px"/>
-
-  <img height="32" width="32" style="vertical-align:top; margin:4px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" style="vertical-align:top; margin:4px"/>
-    <img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/denissongomes/denissongomes/main/images/java.png" style="vertical-align:top; margin:4px"/>
-     <img height="32" width="32" style="vertical-align:top; margin:4px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" style="vertical-align:top; margin:4px"/>
+<img height="32" width="32" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/denissongomes/denissongomes/main/images/java.png" style="vertical-align:top; margin:4px"/>
+<img height="32" width="32" style="vertical-align:top; margin:4px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" style="vertical-align:top; margin:4px"/>
+<img height="32" width="32" style="vertical-align:top; margin:4px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" style="vertical-align:top; margin:4px"/>
+<img height="32" width="32" style="vertical-align:top; margin:4px" src="https://www.php.net/images/logos/php-icon.png" style="vertical-align:top; margin:4px"/>    
 
   and more...
 </p>
