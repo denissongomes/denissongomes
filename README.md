@@ -24,6 +24,7 @@ I thrive on challenges and am a lifelong learner. I'm seeking stimulating opport
 <img height="32" width="32" style="vertical-align:top; margin:4px" src="https://www.php.net/images/logos/php-icon.png" style="vertical-align:top; margin:4px"/>    
 
   and more...
+  
 </p>
 
 <br />
@@ -35,13 +36,12 @@ I thrive on challenges and am a lifelong learner. I'm seeking stimulating opport
 - <img height="16" width="16" style="vertical-align:top; margin:4px" src="https://s3.amazonaws.com/pix.iemoji.com/twit33/0194.png" style="vertical-align:top; margin:4px"/> I’m currently learning english language;
 
 <br />
- 
 
 ### Contact-me on:
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/denissongomes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/denissongomes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://denissongomes.dev/)  
 <br />
-![Denisson Gomes's github stats](https://github-readme-stats.vercel.app/api?username=denissongomes&show_icons=true&theme=radical)
+[![roadmap.sh](https://roadmap.sh/card/tall/6755897fecc889bb0d41d059?variant=dark)](https://roadmap.sh) &nbsp;
+![Denni's github stats](https://github-readme-stats.vercel.app/api?username=denissongomes&show_icons=true&theme=radical) 
 
 
 
